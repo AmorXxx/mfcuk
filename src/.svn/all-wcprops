@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/80/trunk/src
+END
+xgetopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/65/trunk/src/xgetopt.h
+END
+mfcuk_finger.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/76/trunk/src/mfcuk_finger.c
+END
+crypto1.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/src/crypto1.c
+END
+mifare.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/66/trunk/src/mifare.c
+END
+mfcuk_finger.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/75/trunk/src/mfcuk_finger.h
+END
+nfc-utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/66/trunk/src/nfc-utils.c
+END
+mfcuk.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/80/trunk/src/mfcuk.c
+END
+pm3_mfc_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/57/trunk/src/pm3_mfc_parser.py
+END
+build_cygwin.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/33/trunk/src/build_cygwin.sh
+END
+mifare.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/66/trunk/src/mifare.h
+END
+crapto1.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/70/trunk/src/crapto1.c
+END
+nfc-utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/66/trunk/src/nfc-utils.h
+END
+mfcuk.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/73/trunk/src/mfcuk.h
+END
+trace1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/57/trunk/src/trace1.txt
+END
+crapto1.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/70/trunk/src/crapto1.h
+END
+mfcuk_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/65/trunk/src/mfcuk_utils.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/71/trunk/src/Makefile.am
+END
+mfcuk_mifare.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/78/trunk/src/mfcuk_mifare.c
+END
+xgetopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/65/trunk/src/xgetopt.c
+END
+mfcuk_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/68/trunk/src/mfcuk_utils.h
+END
+mfcuk_mifare.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/78/trunk/src/mfcuk_mifare.h
+END
